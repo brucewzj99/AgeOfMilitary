@@ -19,22 +19,22 @@ Power up includes:
     <th>Description</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/sgtechICT1009/ict1009-team46-2022/blob/main/AgeOfMilitary/res/objects/boost.png" alt="boost" width=100px></td>
+    <td><img src="https://github.com/brucewzj99/AgeOfMilitary/tree/main/AgeOfMilitary/res/objects/boost.png" alt="boost" width=100px></td>
     <td>Boost</td>
     <td>Increase the movement speed of player</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sgtechICT1009/ict1009-team46-2022/blob/main/AgeOfMilitary/res/objects/heart.png" alt="boost" width=100px></td>
+    <td><img src="https://github.com/brucewzj99/AgeOfMilitary/tree/main/AgeOfMilitary/res/objects/heart.png" alt="boost" width=100px></td>
     <td>Health</td>
     <td>Restore 1 live to player</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sgtechICT1009/ict1009-team46-2022/blob/main/AgeOfMilitary/res/objects/shield.png" alt="boost" width=100px></td>
+    <td><img src="https://github.com/brucewzj99/AgeOfMilitary/tree/main/AgeOfMilitary/res/objects/shield.png" alt="boost" width=100px></td>
     <td>Shield</td>
     <td>Help player block one shot from the opponent</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sgtechICT1009/ict1009-team46-2022/blob/main/AgeOfMilitary/res/objects/powerup.png" alt="boost" width=100px></td>
+    <td><img src="https://github.com/brucewzj99/AgeOfMilitary/tree/main/AgeOfMilitary/res/objects/powerup.png" alt="boost" width=100px></td>
     <td>Power up</td>
     <td>Advance player to the next level, increase their stats</td>
   </tr>
@@ -42,9 +42,9 @@ Power up includes:
 
 Upon power up, the model of the character also change to reflect their level. Starting from the level 1(left) to level 3(right).
 
-![Level1](https://github.com/sgtechICT1009/ict1009-team46-2022/blob/main/AgeOfMilitary/res/player/blue_down_1.png?raw=true)
-![Level2](https://github.com/sgtechICT1009/ict1009-team46-2022/blob/main/AgeOfMilitary/res/player/blue_down_2.png?raw=true)
-![Level3](https://github.com/sgtechICT1009/ict1009-team46-2022/blob/main/AgeOfMilitary/res/player/blue_down_3.png?raw=true)
+![Level1](https://github.com/brucewzj99/AgeOfMilitary/tree/main/AgeOfMilitary/res/player/blue_down_1.png?raw=true)
+![Level2](https://github.com/brucewzj99/AgeOfMilitary/tree/main/AgeOfMilitary/res/player/blue_down_2.png?raw=true)
+![Level3](https://github.com/brucewzj99/AgeOfMilitary/tree/main/AgeOfMilitary/res/player/blue_down_3.png?raw=true)
 
 
 ## Game Configuration: 
